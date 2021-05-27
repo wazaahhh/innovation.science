@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: innovation dynamics
+description: innovation is bursty and this is fundamental for productivity
+img: /assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 2
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

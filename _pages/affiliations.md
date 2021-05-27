@@ -1,12 +1,12 @@
 ---
-layout: about
-title: about
-permalink: /
-description: by <a href="affiliations">Thomas Maillart</a>
+layout: page
+title: thomas maillart
+permalink: /affiliations
+description:
 
 profile:
   align: right
-  image: sdg-solution-space-coworking.jpg
+  image: prof_pic.jpg
   address: >
     <p>SDG Solution Space</p>
     <p>Campus Biotech Innovation Park</p>
@@ -16,11 +16,8 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
-
-checkout my official [UNIGE page](https://www.unige.ch/gsem/en/research/faculty/all/thomas-maillart/)
-
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

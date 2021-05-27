@@ -1,10 +1,11 @@
 ---
 layout: page
-title: hackathons
-description: uncovering motivations and incentives for participation in hackathons for good
-img: /assets/img/1.jpg
-importance: 3
-category: research
+title: saporo
+description: advising a great new startup
+img: /assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 4
+category: innovation practice
 ---
 
 Every project has a beautiful feature showcase page.

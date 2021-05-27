@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: quant.resilience
+description: predicting technologies for the next 10 years
+img: /assets/img/3.jpg
+importance: 1
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

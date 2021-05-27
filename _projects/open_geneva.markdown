@@ -1,10 +1,10 @@
 ---
 layout: page
-title: hackathons
-description: uncovering motivations and incentives for participation in hackathons for good
-img: /assets/img/1.jpg
-importance: 3
-category: research
+title: open geneva
+description: innovation for freedom
+img: /assets/img/12.jpg
+importance: 1
+category: innovation practice
 ---
 
 Every project has a beautiful feature showcase page.

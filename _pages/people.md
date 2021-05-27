@@ -1,14 +1,14 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: research & innovation practice projects
+title: people
+permalink: /people/
+description: awesome team and collaborations
 nav: true
-nav_order: 2
-display_categories: [research,innovation practice]
+nav_order: 4
+display_categories: [team,affiliates]
 horizontal: false
 ---
-<div class="projects">
+<div class="people">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}

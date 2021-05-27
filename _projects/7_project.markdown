@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 1
-category: work
+title: ai4autism
+description: uncovering social interaction impairments with computer vision
+img: /assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 6
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

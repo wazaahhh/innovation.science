@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: cyber risks
+description: quantitative cyber risk models for business and insurance
+img: /assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 4
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
